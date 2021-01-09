@@ -1,1 +1,1 @@
-# sinful.c-by-me
+# sinful.c
