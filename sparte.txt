@@ -1,3 +1,0 @@
-tk:tk 104.131.173.127 port: 22 --> Debian GNU/Linux 7 \n \l
-
-  
